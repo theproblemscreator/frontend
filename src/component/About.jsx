@@ -20,7 +20,7 @@ const About = () => {
         My goal is to continuously learn and build applications that make a difference.
       </p>
       <a
-        href="Ajay-Rathod-latest.pdf"
+        href="Ajay-Rathod.pdf"
         download
         className="resume-button"
       >
