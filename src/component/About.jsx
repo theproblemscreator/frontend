@@ -5,7 +5,7 @@ const About = () => {
   return (
     <div className="about-container">
       <h1>About Me</h1>
-      <hr />
+
       <p>
         Hi, I'm <strong>Ajay Rathod</strong>, a passionate Full Stack Developer with 3+ years of
         experience building scalable and user-friendly applications. I specialize in

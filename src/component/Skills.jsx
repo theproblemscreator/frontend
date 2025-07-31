@@ -9,6 +9,7 @@ const Skills = () => {
   return (
     <div className="page-content">
       <h1>My Skills</h1>
+      <hr />
 
       <div style={{ display: "flex", justifyContent: "center", gap: "50px", marginTop: "20px", flexWrap: "wrap" }}>
         

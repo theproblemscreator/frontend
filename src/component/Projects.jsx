@@ -33,6 +33,7 @@ const Projects = () => {
   return (
     <div className="projects-container">
       <h1 className="projects-title">Projects</h1>
+      <hr />
       <div className="projects-list">
         {projectList.map((project, index) => (
           <div className="project-card" key={index}>
