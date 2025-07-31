@@ -1,5 +1,6 @@
 import React from 'react'
 import "../App.css";
+import TypingAnimation from './TypingAnimation';
 
 const Contact = () => {
   const linkedin_url = "https://www.linkedin.com/in/ajay-rathod-30639b187/?msgControlName=view_message_button&msgConversationId=2-OGUyMzgwNjMtZmIzMy00ZTQ4LTliMmEtZjU1YzJlNTZiODU5XzAxMw%3D%3D&msgOverlay=true";

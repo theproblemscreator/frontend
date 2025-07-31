@@ -12,15 +12,15 @@ import Skills from "./component/Skills";
 function App() {
   return (
     <Router>
-      <Navbar/>
+      <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/projects" element={<Projects />} />
-        <Route path="/skills" element={<Skills/>}></Route>
+        <Route path="/skills" element={<Skills />}></Route>
         <Route path="/contact" element={<Contact />} />
       </Routes>
-      <Footer/>
+      <Footer />
     </Router>
   );
 }
