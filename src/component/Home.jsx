@@ -1,10 +1,15 @@
-import React from 'react'
-import "../App.css";
+import React from "react";
+import "./Home.css";
+import '../App.css'
 
-function Home() {
+const Home = () => {
   return (
-    <><h1 className='page-content'>Home Component</h1></>
-  )
-}
+    <div className="page-content">
+      <h1>Hi, I'm Ajay Rathod 👋</h1>
+      <h2>Java & Full-Stack Developer</h2>
+      <p>I build scalable web apps using Java, Spring Boot, Node.js, React, and MySQL.</p>
+    </div>
+  );
+};
 
 export default Home;

@@ -1,0 +1,27 @@
+.page-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* keep horizontal center */
+  text-align: center;
+  padding: 40px 20px; /* space around content */
+  /* background: #f9f9f9; */
+}
+
+.page-content h1 {
+  font-size: 3rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.page-content h2 {
+  font-size: 1.8rem;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.page-content p {
+  font-size: 1.2rem;
+  color: #666;
+  max-width: 600px;
+  line-height: 1.6;
+}
