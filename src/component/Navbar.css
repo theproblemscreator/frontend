@@ -3,9 +3,9 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #a2979b;
+  background: #34d4df;
   padding: 12px 20px;
-  color: #f3c2c2;
+  color: #4732d3;
 }
 
 /* Logo */
@@ -22,7 +22,7 @@
 }
 
 .nav-links li a {
-  color: #8b0c0c;
+  color: #faf5f5;
   text-decoration: none;
   font-size: 18px;
 }
@@ -43,7 +43,7 @@
   .nav-links {
     display: none;
     flex-direction: column;
-    background: #333;
+    background: #43b1e3;
     position: absolute;
     top: 60px;
     right: 0;
