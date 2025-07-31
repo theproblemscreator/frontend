@@ -40,12 +40,9 @@ const Projects = () => {
             <h2>{project.name}</h2>
             <p>{project.description}</p>
             <p><strong>Tech Stack:</strong> {project.tech}</p>
-            <div className="project-links">
-            </div>
-            <br />
-            <br />
-          </div>
+        </div>
         ))}
+        <br />
       </div>
     </div>
   );
