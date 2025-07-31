@@ -3,18 +3,18 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #333;
+  background: #333;
   padding: 12px 20px;
   color: #fff;
 }
 
-/* Logo styling */
+/* Logo */
 .logo {
   font-size: 24px;
   font-weight: bold;
 }
 
-/* Navigation links */
+/* Links */
 .nav-links {
   list-style: none;
   display: flex;
@@ -25,16 +25,37 @@
   color: #fff;
   text-decoration: none;
   font-size: 18px;
-  transition: color 0.3s ease;
 }
 
 .nav-links li a:hover {
   color: #ff9800;
 }
 
+/* Hamburger icon (hidden on large screens) */
+.hamburger {
+  display: none;
+  font-size: 28px;
+  cursor: pointer;
+}
+
 /* Responsive for small screens */
 @media (max-width: 768px) {
   .nav-links {
-    display: none; /* Hide on mobile */
+    display: none;
+    flex-direction: column;
+    background: #333;
+    position: absolute;
+    top: 60px;
+    right: 0;
+    width: 200px;
+    padding: 20px;
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+
+  .hamburger {
+    display: block;
   }
 }
