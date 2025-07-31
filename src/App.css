@@ -31,3 +31,7 @@ hr {
   width: 50%;               /* Shorter width */
   margin: 20px auto;        /* Space around the line */
 }
+
+body{
+  background-color: rgb(243, 242, 239);
+}
