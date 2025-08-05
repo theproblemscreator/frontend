@@ -11,7 +11,7 @@ const Skills = () => {
       <h1>My Skills</h1>
       <hr />
 
-      <div style={{ display: "flex", justifyContent: "center", gap: "50px", marginTop: "20px", flexWrap: "wrap" }}>
+      <div style={{ display: "flex", justifyContent: "center", gap: "50px", margin: "20px", flexWrap: "wrap" , paddingBottom : "10px" }}>
         
         {/* Frontend Section */}
         <div>
