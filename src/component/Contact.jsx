@@ -8,7 +8,7 @@ const Contact = () => {
     <div className="page-content">
       <h1>Contact Me</h1>
       <hr />
-      <p>Email: <a href="ajaygrathod@outlook.com">ajaygrathod@outlook.com</a></p>
+      <p>Email: <a><b>ajgrathod2025@gmail.com</b></a></p>
       <p>LinkedIn: <a href={linkedin_url} target="_blank" rel="noreferrer">View Profile</a></p>
     </div>
   );
