@@ -9,7 +9,7 @@ const About = () => {
       <p>
         Hi, I'm <strong>Ajay Rathod</strong>, a passionate Full Stack Developer with 3+ years of
         experience building scalable and user-friendly applications. I specialize in
-        <strong> Java, Spring Boot, Node.js, React, and MySQL</strong>.
+        <strong> Salesforce Commerce Cloud (SFCC) PWA Kit , Progressive Web Application (PWA) , Salesforce APIs (SCAPI) , Java, Spring Boot, Node.js, React, and MySQL</strong>.
       </p>
       <p>
         I enjoy creating end-to-end solutions from designing APIs to implementing modern UI. I have worked on projects
