@@ -1,7 +1,7 @@
 import React from "react";
 
 const Skills = () => {
-  const frontend = ["HTML", "CSS", "JavaScript", "React","Salesforce"];
+  const frontend = ["HTML", "CSS", "JavaScript", "React"];
   const backend = ["Node.js", "Express.js", "Passport.js", "Java", "Spring Boot"];
   const tools = ["Visual Studio", "Eclipse", "Postman", "Swagger"];
   const others = ["Redux", "MySQL", "MongoDB", "JPA"];
