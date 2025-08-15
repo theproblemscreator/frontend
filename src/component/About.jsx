@@ -8,7 +8,7 @@ const About = () => {
 
       <p>
         Hi, I'm <strong>Ajay Rathod</strong>, a passionate Full Stack Developer with 3+ years of
-        experience building scalable and user-friendly applications. I specialize in <strong> JavaScript , Java, Spring Boot, Node.js, React, and MySQL</strong>.
+        experience building scalable and user-friendly applications. I specialize in <strong> JavaScript , Java, Spring Boot, Node.js,Passport.Js, Typed.Js React, and MySQL</strong>.
       </p>
       <p>
         I enjoy creating end-to-end solutions from designing APIs to implementing modern UI. I have worked on projects
