@@ -10,7 +10,7 @@ const Home = () => {
         Hi, I'm <TypingAnimation /> 👋
       </h1>
       <p>
-        I build scalable web apps using JavaScript ,Java, Spring Boot, Node.js, React, and
+        I build scalable web apps using JavaScript, React, Node.js, Type.Js , Express.Js, Java, Spring Boot,  and
         MySQL.
       </p>
     </div>
